@@ -1,2 +1,2 @@
-# Deep-Learning-Ai-
-Coursera Deep Learning
+# Deep-Learning-Ai
+Coursera Deep Learning Assignment
